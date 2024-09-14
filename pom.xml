@@ -8,10 +8,10 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.projetosistemagestaoescola</groupId>
-	<artifactId>projetosistemagestaoescola</artifactId>
+	<groupId>poo</groupId>
+	<artifactId>sistemagestaoescolasenai</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projetosistemagestaoescola</name>
+	<name>sistemagestaoescolasenai</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -46,6 +46,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.34</version>
+			<scope>provided</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
