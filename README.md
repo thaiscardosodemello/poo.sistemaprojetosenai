@@ -6,7 +6,7 @@
 
 O projeto **EscolaSenai** é um sistema desenvolvido para a disciplina de Programação Orientada a Objetos (POO), que visa gerenciar as atividades pedagógicas em uma instituição de ensino. O sistema permite a administração de alunos, professores, disciplinas e notas, facilitando a organização e acompanhamento das atividades acadêmicas.
 
-## Primeira Entrega
+## Entrega
 
 ### Critérios
 
